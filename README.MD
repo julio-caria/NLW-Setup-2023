@@ -6,5 +6,8 @@ Durante 1 semana, foi liberado um total de 5 aulas na plataforma da rocketseat, 
 
 Sendo assim, durante essa semana, os educadores Mayk Brito, responsável pela trilha Explorer, e Diego Fernandes, responsável pela trilha Ignite, desenvolveram um projeto com o objetivo de controlar melhor os hábitos diários. 
 
-## Trilha Explorer
-<small>Educador - Mayk Brito</small>
+## Trilha Explorer <small>Educador - Mayk Brito</small>
+
+A trilha Explorer trata-se de uma trilha iniciante, trazendo conceitos básicos a tona, uma experiência mais simples e compreensível, porém muito bem trabalhada.
+
+Conceitos de Funções, variáveis, pseudo-selectors, seletores, git e GitHub foram explicados pelo educador, [@MaykBrito](https://github.com/mayk-brito).
