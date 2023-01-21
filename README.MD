@@ -36,7 +36,7 @@ Durante 1 semana, foi liberado um total de 5 aulas na plataforma da rocketseat, 
 
 Sendo assim, durante essa semana, os educadores Mayk Brito, responsável pela trilha Explorer, e Diego Fernandes, responsável pela trilha Ignite, desenvolveram um projeto com o objetivo de controlar melhor os hábitos diários. 
 
-- [Projeto Finalizado](https://julio-caria.github.io/nlw-setup-2023)
+- [Projeto Finalizado](https://julio-caria.github.io/NLW-Setup-2023)
 
 ## 🔖 Layout
 
